@@ -1,0 +1,13 @@
+.mq-debug {
+	position: absolute;
+	top: 4px;
+	left: 4px;
+	z-index: 10000;
+	padding: 6px;
+	border-radius: 3px;
+	background-color: rgba(0,0,0,0.2);
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: 700;
+	font-size: 11px;
+	color: rgba(0,0,0,0.6);
+}
